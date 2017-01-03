@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1483455408 source:c:\users\ashe\documents\github\2z5ltq1s1v\hw3\main.cpp
+	<stdio.h>
+	<vector>
+	"convexhull.h"
+	"divideandconquer.h"
+
+1483456182 source:c:\users\ashe\documents\github\2z5ltq1s1v\hw3\divideandaonquer.cpp
+	"divideandconquer.h"
+
+1483453660 c:\users\ashe\documents\github\2z5ltq1s1v\hw3\divideandconquer.h
+	<vector>
+	"convexhull.h"
+
+1483455662 c:\users\ashe\documents\github\2z5ltq1s1v\hw3\convexhull.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+
+1483456321 source:c:\users\ashe\documents\github\2z5ltq1s1v\hw3\convexhull.cpp
+	"convexhull.h"
+
